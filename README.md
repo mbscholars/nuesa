@@ -1,5 +1,6 @@
 ## About the Project
-A Social Web application developed for bridging the gap between students in different levels with forums for exchanging ideas, store for displaying skillsets and items for sale, Bulk sms for notification and notifying students of upcoming programs for engineering students, with an auto agregator for updating jobs and internship offers available in Nigeria for engineering students. 
+A Social Web application developed for bridging the gap between students in different levels with forums for exchanging ideas, store for displaying products, skillsets and used items for sale, Bulk sms for notifications and also for notifying engineering students of upcoming programs, with an auto XML syndicator for updating jobs and internship offers available in Nigeria for engineering students from major job agregating websites in Nigeria. 
+
 Built with Codeigniter in the year 2016 (December) - 2017 (April). 
 
 **I No longer maintain this project** 
